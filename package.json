@@ -1,0 +1,21 @@
+{
+  "name": "resend-email-cli",
+  "version": "1.0.0",
+  "private": true,
+  "description": "CLI manual para selecionar e enviar emails com currículo em PDF usando Resend.",
+  "type": "module",
+  "scripts": {
+    "emails": "tsx src/index.ts",
+    "check": "tsc --noEmit"
+  },
+  "dependencies": {
+    "dotenv": "latest",
+    "nodemailer": "^10.0.15"
+  },
+  "devDependencies": {
+    "@types/node": "latest",
+    "@types/nodemailer": "^8.0.2",
+    "tsx": "latest",
+    "typescript": "latest"
+  }
+}

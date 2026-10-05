@@ -1,0 +1,11 @@
+[
+  {
+    "id": "empresa-x-backend",
+    "nome": "Teste",
+    "empresa": "Empresa X",
+    "email": "gmk-jorge@hotmail.com",
+    "assunto": "Candidatura - Desenvolvedor Backend",
+    "mensagem": "Olá, meu nome é João e sou um desenvolvedor backend com experiência em Node.js e Python. Estou interessado na posição de Desenvolvedor Backend na Empresa X. Anexo meu currículo para sua consideração. Agradeço pela oportunidade e estou à disposição para uma entrevista.",
+    "ativo": true
+  }
+]
